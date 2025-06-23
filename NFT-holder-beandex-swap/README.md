@@ -4,5 +4,5 @@
 ![Bean DEX DASHBOARD](./BEANDEX_NFT-SWAP.png)
 
 tables used:
-monad.testnet.fact_event_logs
-monad.testnet.fact_traces
+`monad.testnet.fact_event_logs`
+`monad.testnet.fact_traces`
